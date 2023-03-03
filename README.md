@@ -8,6 +8,11 @@
 <br/>
 <br/>
 
+### :bulb: 사용 언어
+```
+Python
+```
+ 
 ### :bulb: 학습 순서
 ```
  PART 1 -> PART 4-A -> PART 2 -> PART 3 -> PART 4
