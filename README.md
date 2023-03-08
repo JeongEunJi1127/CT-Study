@@ -21,8 +21,8 @@ Python
 
 ### :bulb: 진행 상황
 #### :one: 코딩 테스트, 무엇을 어떻게 준비할까?
-- [x] `Chapter 1` 코딩테스트 개요
-- [x] `Chapter 2` 16~20년 코딩 테스트 기출문제 유형 분석
+- [x] `Chapter 1` [코딩테스트 개요](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%201/Chapter%201%2C%20%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B0%9C%EC%9A%94.md)
+- [x] `Chapter 2` [16~20년 코딩 테스트 기출문제 유형 분석](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%201/Chapter%202%2C%2016~20%EB%85%84%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EC%84%9D.md)
 
 <br/>
 
