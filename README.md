@@ -6,7 +6,7 @@
 ##### <p align="center"> <b> _with 이것이 취업을 위한 코딩 테스트다_ </b>
 <p align="center"><img src="https://user-images.githubusercontent.com/43170505/223956451-74dcf5c2-318a-44df-9a09-6182088f6f73.png" width="200" height="250"/>
 
-###### <p align="center"> <b> _(개인 학습용으로 정리한 자료입니다!)_ </b>
+###### <p align="center"> <b> _(개인 학습용으로 정리한 자료입니다)_ </b>
 
 <br/>
 <br/>
