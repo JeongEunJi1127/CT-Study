@@ -55,7 +55,7 @@ Python
 <br/>
 
 #### :four: 부록
-- [ ] `Appendix A` 코딩테스트를 위한 파이썬 문법
+- [ ] `Appendix A` [코딩테스트를 위한 파이썬 문법](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%204)
 - [ ] `Appendix B` 기타 알고리즘
 - [ ] `Appendix C` 개발형 코딩 테스트
 - [ ] `Appendix D` 알고리즘 유형별 기출문제 풀이
