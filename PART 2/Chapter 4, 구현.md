@@ -22,20 +22,20 @@ A는 상하좌우 방향으로 이동할 수 있으며 시작 좌표는 항상 (
 계획서에는 L, R, U, D 중 하나의 문자가 반복적으로 적혀 있다. 정사각형 공간을 벗어나는 움직임은 무시된다. 
 A가 최종적으로 도착할 지점의 좌표를 구하자
 
-> ` L - 왼쪽으로 한 칸 이동` 
-` R - 오른쪽으로 한 칸 이동` 
-` U - 위로 한 칸 이동` 
+> ` L - 왼쪽으로 한 칸 이동`   
+` R - 오른쪽으로 한 칸 이동`   
+` U - 위로 한 칸 이동`   
 ` D - 아래로 한 칸 이동` 
 
 
-:speech_balloon: 시뮬레이션 유형
+:speech_balloon: 시뮬레이션 유형  
 :thought_balloon: [풀이](https://github.com/JeongEunJi1127/Algorithm/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%204%20%EA%B5%AC%ED%98%84/%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)
 
 #### :grey_exclamation: 예제 2  - 시각
 > 정수 N이 입력되면 00시 00분 --초 부터 N시 59분 59초까지의 모든 시각 중에서
  3이 하나라도 포함되는 모든 경우의 수를 구하는 프로그램을 작성하시오.
  
-:speech_balloon: 완전 탐색 유형
+:speech_balloon: 완전 탐색 유형  
 :thought_balloon: [풀이](https://github.com/JeongEunJi1127/Algorithm/blob/master/%EC%9D%B4%EA%B2%83%EC%9D%B4%20%EC%BD%94%EB%94%A9%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8B%A4/Chapter%204%20%EA%B5%AC%ED%98%84/%EC%8B%9C%EA%B0%81.py)
 
 
