@@ -31,8 +31,8 @@ Python
 <br/>
 
 #### :two: 주요 알고리즘 이론과 실전 문제
-- [ ] `Chapter 3` 그리디 
-- [ ] `Chapter 4` 구현
+- [x] `Chapter 3` 그리디 
+- [x] `Chapter 4` 구현
 - [ ] `Chapter 5` DFS/ BFS
 - [ ] `Chapter 6` 정렬
 - [ ] `Chapter 7` 이진 탐색
