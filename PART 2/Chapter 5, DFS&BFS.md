@@ -45,9 +45,36 @@ def factorial_recursive(n):
 #### DFS
 - 깊이 우선 탐색
 - 그래프에서 깊은 부분을 우선적으로 탐색하는 알고리즘
-- 스택 사용
+- 스택 사용, 재귀 함수 사용
 
+```python
+def dfs(graph,v,visited):
+   visited[v] = True
+
+   for i in graph[v]:
+      if not visited[i]:
+         dfs(graph,i,visited)
+
+dfs(graph,1,visited)
+```
 #### BFS
 - 너비 우선 탐색
 - 가까운 노드부터 탐색하는 알고리즘
-- 큐 사용 -> 수행시간이 DFS보다 좋음
+- 큐 사용 -> 수행시간이 DFS보다 좋음 (시간복잡도 O(N))
+
+```python
+from collections import deque
+
+def bfs(graph,start,visited):
+   queue = deque([start])
+   visited[start] = True
+
+   while queue:
+      v = queue.popleft()
+      for i in graph[v]:
+         if not visited[i]:
+            queue.append(i)
+            visited[i] = True
+   
+bfs(graph,1,visited)
+```
