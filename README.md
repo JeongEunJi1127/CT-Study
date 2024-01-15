@@ -33,7 +33,7 @@ Python
 #### :two: 주요 알고리즘 이론과 실전 문제
 - [x] `Chapter 3` [그리디](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%203%2C%20%EA%B7%B8%EB%A6%AC%EB%94%94.md) 
 - [x] `Chapter 4` [구현](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%204%2C%20%EA%B5%AC%ED%98%84.md)
-- [ ] `Chapter 5` DFS/ BFS
+- [ ] `Chapter 5` [DFS/ BFS](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%205-1%2C%20DFS%26BFS.md)
 - [ ] `Chapter 6` 정렬
 - [ ] `Chapter 7` 이진 탐색
 - [ ] `Chapter 8` 다이나믹 프로그래밍
