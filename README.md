@@ -36,7 +36,7 @@ Python
 - [x] `Chapter 5` [DFS/ BFS](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%205%2C%20DFS%26BFS.md)
 - [x] `Chapter 6` [정렬](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%206%2C%20%EC%A0%95%EB%A0%AC.md)
 - [x] `Chapter 7` [이진 탐색](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%207%2C%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
-- [ ] `Chapter 8` 다이나믹 프로그래밍
+- [x] `Chapter 8` [다이나믹 프로그래밍](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%208%2C%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [ ] `Chapter 9` 최단 경로
 - [ ] `Chapter 10` 그래프 이론
 
