@@ -43,7 +43,7 @@ Python
 <br/>
 
 #### :three: 알고리즘 유형별 기출문제
-- [x] `Chapter 11` [그리디 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2011%2C%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EB%AC%B8%EC%A0%9C
+- [x] `Chapter 11` [그리디 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2011%2C%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EB%AC%B8%EC%A0%9C)
 - [ ] `Chapter 12` 구현 문제
 - [ ] `Chapter 13` DFS/BFS 문제
 - [ ] `Chapter 14` 정렬 문제
