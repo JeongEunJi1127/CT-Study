@@ -38,7 +38,7 @@ Python
 - [x] `Chapter 7` [이진 탐색](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%207%2C%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89.md)
 - [x] `Chapter 8` [다이나믹 프로그래밍](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%208%2C%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 - [x] `Chapter 9` [최단 경로](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%209%2C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C.md)
-- [ ] `Chapter 10` 그래프 이론
+- [x] `Chapter 10` [그래프 이론](https://github.com/JeongEunJi1127/CT-Study/blob/master/PART%202/Chapter%2010%2C%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0.md)
 
 <br/>
 
