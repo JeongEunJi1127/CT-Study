@@ -1,4 +1,5 @@
 # 못생긴 수 = 2,3,5만 약수로 가지는 수
+# 책의 해답 풀이처럼 못생긴수의 2,3,5의 배수 또한 못생긴수! 이를 이용하여 푸는게 더 효율적이었을듯
 n = int(input())
 dp = [0 for i in range(n+1)]
 dp[1] = 1
@@ -9,12 +10,12 @@ def ugly_num(num):
         if num == 1:
             return True
             break
-        if num % 2 == 0:
-            num //= 2
+        if num % 5 == 0:
+            num //= 5
         elif num % 3 == 0:
             num //= 3
-        elif num % 5 == 0:
-            num //= 5
+        elif num % 2 == 0:
+            num //= 2
         # 2, 3, 5로 나누어지지 않으면 못생긴 수
         else:
             return False
