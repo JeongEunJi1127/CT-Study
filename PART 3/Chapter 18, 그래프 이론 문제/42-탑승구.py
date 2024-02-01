@@ -23,8 +23,12 @@ for i in range(1,p+1):
     # i번째 비행기가 도킹하는 탑승구의 위치 1~n
     n = int(input())
     root = find_parent(parent,n)
+
+    # 도킹할 수 없으면 즉시 중지
     if root==0:
         break
+
+    # 탑승구 최대 번호에 도킹하고, -1만큼 작은 탑승구를 root로
     union_parent(parent, root, root-1)
     cnt += 1
 
