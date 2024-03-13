@@ -44,8 +44,8 @@ Python
 
 #### :three: 알고리즘 유형별 기출문제
 - [x] `Chapter 11` [그리디 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2011%2C%20%EA%B7%B8%EB%A6%AC%EB%94%94%20%EB%AC%B8%EC%A0%9C)
-- [ ] `Chapter 12` 구현 문제
-- [ ] `Chapter 13` DFS/BFS 문제
+- [ ] `Chapter 12` [구현 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2012%2C%20%EA%B5%AC%ED%98%84%20%EB%AC%B8%EC%A0%9C)
+- [ ] `Chapter 13` [DFS/BFS 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2013%2C%20DFS%3ABFS%20%EB%AC%B8%EC%A0%9C)
 - [x] `Chapter 14` [정렬 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2014%2C%20%EC%A0%95%EB%A0%AC%20%EB%AC%B8%EC%A0%9C)
 - [x] `Chapter 15` [이진 탐색 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2015%2C%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%EB%AC%B8%EC%A0%9C)
 - [x] `Chapter 16` [다이나믹 프로그래밍 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2016%2C%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C)
