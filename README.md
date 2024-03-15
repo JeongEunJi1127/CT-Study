@@ -51,7 +51,7 @@ Python
 - [x] `Chapter 16` [다이나믹 프로그래밍 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2016%2C%20%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%AC%B8%EC%A0%9C)
 - [x] `Chapter 17` [최단 경로 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2017%2C%20%EC%B5%9C%EB%8B%A8%20%EA%B2%BD%EB%A1%9C%20%EB%AC%B8%EC%A0%9C)
 - [x] `Chapter 18` [그래프 이론 문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2018%2C%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9D%B4%EB%A1%A0%20%EB%AC%B8%EC%A0%9C)
-- [ ] `Chapter 19` 2020년 상반기 삼성전자 기출문제
+- [ ] `Chapter 19` [2020년 상반기 삼성전자 기출문제](https://github.com/JeongEunJi1127/CT-Study/tree/master/PART%203/Chapter%2019%2C%202020%EB%85%84%20%EC%83%81%EB%B0%98%EA%B8%B0%20%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C)
 
 <br/>
 
